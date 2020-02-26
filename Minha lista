@@ -1,0 +1,27 @@
+O que outras pessoas estão dizendo#EXTM3U 
+
+#EXTINF:0 group-title="GUERRERO", ´ #EXTSIZE: Big 
+#EXTINF:0 group-title="GUERRERO", GUERRERO
+
+
+#EXTINF:-1 tvg-logo="http://www.brasilradios.com.br/wp-content/uploads/2015/07/radio-capivara-dioario-sertao-fm-104.gif" group-title="TV ABERTA", DIÁRIO DO SERTÃO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w85158475.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV ABERTA", SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV ABERTA", REDETV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA", TV CULTURA PB
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdyDgzWXIxXcufrjjHOqLu2VnpxehtJbJx_2Qc9RxKooZO_CBf" group-title="TV ABERTA", RADIO M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV ABERTA", RECORD TV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRA3mWxTyvv58olktsvFqLzeZ7ZIoyi7p7Y9zfttogRESODncX8" group-title="TV ABERTA", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
